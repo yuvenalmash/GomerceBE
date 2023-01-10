@@ -24,6 +24,7 @@
 - [Ayorinde Ajibaye](https://github.com/felayo)
 - [Christopher Bundi](https://github.com/bundiw)
 - [Aniekan Daniel](https://github.com/aniekandan)
+- [Yuvenal Njoroge](https://github.com/yuvenalmash)
 - [Obiora Ebuka](https://github.com/oEbuka)
 - [Bryan Adamson](https://github.com/BryanAdamson)
 - [Daramola Oluwatobi](https://github.com/Hephzaron)
